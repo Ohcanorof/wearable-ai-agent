@@ -1,0 +1,19 @@
+{
+    "Test_Date": "2026-11-16",
+    "Device_Name": "WHOOP 5.0",
+    "Brand": "WHOOP",
+    "Model": "5.0",
+    "Category": "Fitness Band",
+    "Price_USD": null,
+    "Battery_Life_Hours": 336.0,
+    "Heart_Rate_Accuracy_Percent": null,
+    "Step_Count_Accuracy_Percent": null,
+    "Sleep_Tracking_Accuracy_Percent": null,
+    "Water_Resistance_Rating": null,
+    "User_Satisfaction_Rating": null,
+    "GPS_Accuracy_Meters": null,
+    "Connectivity_Features": null,
+    "Health_Sensors_Count": null,
+    "App_Ecosystem_Support": null,
+    "Performance_Score": null
+}

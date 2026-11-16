@@ -1,0 +1,10 @@
+{
+    "device_name": "Garmin Forerunner 265",
+    "model_used": "gemini-3.5-flash-lite",
+    "source_retrieved_at": "2026-11-16T02:47:57.438679+00:00",
+    "source_urls": [
+        "https://www8.garmin.com/manuals-apac/webhelp/forerunner265series/EN-SG/GUID-052F428B-8227-4CA2-A484-246728F4BE05-4050.html",
+        "https://www8.garmin.com/manuals/webhelp/GUID-F41EAFB3-6CC9-42DE-9C6C-9E358DBB0671/EN-US/Forerunner_265_OM_EN-US.pdf"
+    ],
+    "review_status": "not_verified"
+}

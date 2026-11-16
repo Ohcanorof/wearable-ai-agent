@@ -1,0 +1,145 @@
+{
+    "generated_at": "2026-11-16T03:41:40.914185+00:00",
+    "target_devices": 12,
+    "valid_records": 12,
+    "missing_records": 0,
+    "invalid_records": 0,
+    "records_with_verified_audit": 0,
+    "record_coverage_percent": 100.0,
+    "field_completeness": {
+        "Price_USD": {
+            "populated": 1,
+            "missing": 11,
+            "completeness_percent": 8.33
+        },
+        "Battery_Life_Hours": {
+            "populated": 4,
+            "missing": 8,
+            "completeness_percent": 33.33
+        },
+        "Heart_Rate_Accuracy_Percent": {
+            "populated": 0,
+            "missing": 12,
+            "completeness_percent": 0.0
+        },
+        "Step_Count_Accuracy_Percent": {
+            "populated": 0,
+            "missing": 12,
+            "completeness_percent": 0.0
+        },
+        "Sleep_Tracking_Accuracy_Percent": {
+            "populated": 0,
+            "missing": 12,
+            "completeness_percent": 0.0
+        },
+        "Water_Resistance_Rating": {
+            "populated": 7,
+            "missing": 5,
+            "completeness_percent": 58.33
+        },
+        "User_Satisfaction_Rating": {
+            "populated": 0,
+            "missing": 12,
+            "completeness_percent": 0.0
+        },
+        "GPS_Accuracy_Meters": {
+            "populated": 0,
+            "missing": 12,
+            "completeness_percent": 0.0
+        },
+        "Connectivity_Features": {
+            "populated": 5,
+            "missing": 7,
+            "completeness_percent": 41.67
+        },
+        "Health_Sensors_Count": {
+            "populated": 1,
+            "missing": 11,
+            "completeness_percent": 8.33
+        },
+        "App_Ecosystem_Support": {
+            "populated": 3,
+            "missing": 9,
+            "completeness_percent": 25.0
+        },
+        "Performance_Score": {
+            "populated": 0,
+            "missing": 12,
+            "completeness_percent": 0.0
+        }
+    },
+    "device_results": [
+        {
+            "device": "Apple Watch Series 10",
+            "status": "valid",
+            "audit_status": "not_verified",
+            "error": null
+        },
+        {
+            "device": "Apple Watch Ultra 2",
+            "status": "valid",
+            "audit_status": "not_verified",
+            "error": null
+        },
+        {
+            "device": "Garmin Forerunner 265",
+            "status": "valid",
+            "audit_status": "not_verified",
+            "error": null
+        },
+        {
+            "device": "Garmin Venu 3",
+            "status": "valid",
+            "audit_status": "not_verified",
+            "error": null
+        },
+        {
+            "device": "Oura Ring Gen3",
+            "status": "valid",
+            "audit_status": "not_verified",
+            "error": null
+        },
+        {
+            "device": "Oura Ring 4",
+            "status": "valid",
+            "audit_status": "not_verified",
+            "error": null
+        },
+        {
+            "device": "WHOOP 4.0",
+            "status": "valid",
+            "audit_status": "not_verified",
+            "error": null
+        },
+        {
+            "device": "WHOOP 5.0",
+            "status": "valid",
+            "audit_status": "not_verified",
+            "error": null
+        },
+        {
+            "device": "Samsung Galaxy Watch7",
+            "status": "valid",
+            "audit_status": "not_verified",
+            "error": null
+        },
+        {
+            "device": "Samsung Galaxy Watch Ultra",
+            "status": "valid",
+            "audit_status": "not_verified",
+            "error": null
+        },
+        {
+            "device": "Fitbit Charge 6",
+            "status": "valid",
+            "audit_status": "not_verified",
+            "error": null
+        },
+        {
+            "device": "Fitbit Sense 2",
+            "status": "valid",
+            "audit_status": "not_verified",
+            "error": null
+        }
+    ]
+}

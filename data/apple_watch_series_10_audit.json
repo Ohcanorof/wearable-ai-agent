@@ -1,0 +1,10 @@
+{
+    "device_name": "Apple Watch Series 10",
+    "model_used": "gemini-3.5-flash-lite",
+    "source_retrieved_at": "2026-11-16T03:33:05.691008+00:00",
+    "source_urls": [
+        "https://support.apple.com/en-in/111848",
+        "https://support.apple.com/kb/SP808"
+    ],
+    "review_status": "not_verified"
+}

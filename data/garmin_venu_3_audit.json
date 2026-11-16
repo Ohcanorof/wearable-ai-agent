@@ -1,0 +1,10 @@
+{
+    "device_name": "Garmin Venu 3",
+    "model_used": "gemini-3.5-flash-lite",
+    "source_retrieved_at": "2026-11-16T03:33:10.950487+00:00",
+    "source_urls": [
+        "https://www8.garmin.com/manuals/webhelp/GUID-9CC4A873-E034-4A06-B2E0-636DCFE760EE/EN-US/Venu_3_OM_EN-US.pdf",
+        "https://www8.garmin.com/manuals-apac/webhelp/venu33s/EN-SG/GUID-29B55BC2-DB01-4829-9BE3-81A3666F2B8F-748.html"
+    ],
+    "review_status": "not_verified"
+}

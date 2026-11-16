@@ -1,0 +1,10 @@
+{
+    "device_name": "Oura Ring Gen3",
+    "model_used": "gemini-3.5-flash-lite",
+    "source_retrieved_at": "2026-11-16T03:33:15.897322+00:00",
+    "source_urls": [
+        "https://ouraring.com/blog/de/introducing-the-oura-gen3-horizon-ring",
+        "https://ouraring.com/blog/da/introducing-the-oura-gen3-horizon-ring"
+    ],
+    "review_status": "not_verified"
+}

@@ -1,0 +1,13 @@
+﻿Test_Date,Device_Name,Brand,Model,Category,Price_USD,Battery_Life_Hours,Heart_Rate_Accuracy_Percent,Step_Count_Accuracy_Percent,Sleep_Tracking_Accuracy_Percent,Water_Resistance_Rating,User_Satisfaction_Rating,GPS_Accuracy_Meters,Connectivity_Features,Health_Sensors_Count,App_Ecosystem_Support,Performance_Score
+2026-11-16,Apple Watch Series 10,Apple,Watch Series 10,Smartwatch,,,,,,,,,,,,
+2026-11-16,Apple Watch Ultra 2,Apple,Watch Ultra 2,Smartwatch,,36.0,,,,100m under ISO standard 22810:2010,,,"LTE, UMTS, L1+L5 Precision dual-frequency GPS, Wi-Fi 4 (802.11n), Bluetooth 5.3, Ultra Wideband, Apple Pay, GymKit",,watchOS,
+2026-11-16,Garmin Forerunner 265,Garmin,Forerunner 265,Sports Watch,,,,,,5 ATM,,,,,,
+2026-11-16,Garmin Venu 3,Garmin,Venu 3,Smartwatch,,336.0,,,,5 ATM,,,,,,
+2026-11-16,Oura Ring Gen3,Oura,Ring Gen3,Smart Ring,,,,,,,,,,,,
+2026-11-16,Oura Ring 4,Oura,Ring 4,Smart Ring,399.0,120.0,,,,100 meters,,,Bluetooth Low Energy,,,
+2026-11-16,WHOOP 4.0,WHOOP,4.0,Fitness Band,,,,,,IP68,,,Bluetooth Low Energy,,,
+2026-11-16,WHOOP 5.0,WHOOP,5.0,Fitness Band,,336.0,,,,,,,,,,
+2026-11-16,Samsung Galaxy Watch7,Samsung,Galaxy Watch7,Smartwatch,,,,,,5ATM / IP68 / MIL-STD-810H,,,BT 5.3 / WiFi 2.4GHz & 5GHz / NFC / LTE,,Wear OS Powered by Samsung (One UI Watch 6),
+2026-11-16,Samsung Galaxy Watch Ultra,Samsung,Galaxy Watch Ultra,Smartwatch,,,,,,10ATM,,,BT 5.3 / Dual GPS (L1+L5),6.0,Wear OS 5,
+2026-11-16,Fitbit Charge 6,Fitbit,Charge 6,Fitness Tracker,,,,,,,,,,,,
+2026-11-16,Fitbit Sense 2,Fitbit,Sense 2,Smartwatch,,,,,,,,,,,,

@@ -1,0 +1,10 @@
+{
+    "device_name": "Fitbit Sense 2",
+    "model_used": "gemini-3.5-flash-lite",
+    "source_retrieved_at": "2026-11-16T03:33:46.742228+00:00",
+    "source_urls": [
+        "https://store.google.com/gb/product/fitbit_sense_2_specs?hl=en-GB",
+        "https://store.google.com/us/product/fitbit_sense_2_specs?hl=en-US"
+    ],
+    "review_status": "not_verified"
+}
